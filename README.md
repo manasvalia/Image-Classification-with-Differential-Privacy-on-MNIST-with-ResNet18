@@ -1,0 +1,2 @@
+# Image-Classification-with-Differential-Privacy-on-MNIST-with-ResNet18
+Differential Privacy can be implemented in machine learning models without loss of accuracy. One of the claims that differential privacy has is that it can hold true for any dataset or any individual and can protect privacy any individual’s Personally Identified Data. Here is the implementation of differential privacy with value of epsilon as 50.
